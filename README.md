@@ -22,12 +22,12 @@ The datasets used in this paper is WorldView-3 (can be downloaded [here](https:/
 # Get Started
 Training and testing codes are in '[codes/](./codes)'. Pretrained model can be found in '[codes/pretrained/](./codes/pretrained)'. All codes will be presented after the paper is completed published. Please refer to `codes/how-to-run.md` for detail description.
 
-# LPPN Architecture
-![WSDF_architecture](./figures/ASW.png)
+# WSDF Architecture
+![WSDF_architecture](./figures/WSDFNet.png)
 
 ASW architecture is presented below:
 
-![ASW_architecture](./figures/FCNN.png)
+![ASW_architecture](./figures/ASW.png)
 
 # Results
 ### Quantitative results
